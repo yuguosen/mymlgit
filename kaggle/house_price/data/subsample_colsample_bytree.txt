@@ -1,0 +1,34 @@
+-607390116.598302 (293676663.536633) with: {'colsample_bytree': 0.6, 'subsample': 0.6} 
+-618916460.499266 (331128813.412789) with: {'colsample_bytree': 0.6, 'subsample': 0.7} 
+-630865773.612540 (308685375.347820) with: {'colsample_bytree': 0.6, 'subsample': 0.8} 
+-620065679.031680 (313269810.484410) with: {'colsample_bytree': 0.6, 'subsample': 0.9} 
+-652678459.531093 (371044371.780781) with: {'colsample_bytree': 0.7, 'subsample': 0.6} 
+-624304256.291357 (317114756.019147) with: {'colsample_bytree': 0.7, 'subsample': 0.7} 
+-642695882.875698 (328449813.784251) with: {'colsample_bytree': 0.7, 'subsample': 0.8} 
+-645119540.301484 (353237670.472268) with: {'colsample_bytree': 0.7, 'subsample': 0.9} 
+-639029491.805149 (342536921.660875) with: {'colsample_bytree': 0.8, 'subsample': 0.6} 
+-633907724.791295 (324663175.979226) with: {'colsample_bytree': 0.8, 'subsample': 0.7} 
+-614977668.920951 (299838478.966403) with: {'colsample_bytree': 0.8, 'subsample': 0.8} 
+-635422759.659577 (351397730.002568) with: {'colsample_bytree': 0.8, 'subsample': 0.9} 
+-629219692.728412 (351330160.165313) with: {'colsample_bytree': 0.9, 'subsample': 0.6} 
+-636260394.781969 (375234822.673873) with: {'colsample_bytree': 0.9, 'subsample': 0.7} 
+-605280274.560952 (283995683.139357) with: {'colsample_bytree': 0.9, 'subsample': 0.8} 
+-633324122.530262 (359960652.942644) with: {'colsample_bytree': 0.9, 'subsample': 0.9} 
+best_params:{'colsample_bytree': 0.9, 'subsample': 0.8} ,best_score:-605280274.560952 
+-0.016992 (0.005345) with: {'colsample_bytree': 0.6, 'subsample': 0.6} 
+-0.017436 (0.005062) with: {'colsample_bytree': 0.6, 'subsample': 0.7} 
+-0.017188 (0.005228) with: {'colsample_bytree': 0.6, 'subsample': 0.8} 
+-0.016998 (0.005687) with: {'colsample_bytree': 0.6, 'subsample': 0.9} 
+-0.017205 (0.004777) with: {'colsample_bytree': 0.7, 'subsample': 0.6} 
+-0.017011 (0.005352) with: {'colsample_bytree': 0.7, 'subsample': 0.7} 
+-0.017126 (0.005051) with: {'colsample_bytree': 0.7, 'subsample': 0.8} 
+-0.017152 (0.005776) with: {'colsample_bytree': 0.7, 'subsample': 0.9} 
+-0.016903 (0.005136) with: {'colsample_bytree': 0.8, 'subsample': 0.6} 
+-0.016735 (0.004962) with: {'colsample_bytree': 0.8, 'subsample': 0.7} 
+-0.016678 (0.004509) with: {'colsample_bytree': 0.8, 'subsample': 0.8} 
+-0.017037 (0.005381) with: {'colsample_bytree': 0.8, 'subsample': 0.9} 
+-0.017237 (0.005295) with: {'colsample_bytree': 0.9, 'subsample': 0.6} 
+-0.016465 (0.004689) with: {'colsample_bytree': 0.9, 'subsample': 0.7} 
+-0.016936 (0.005512) with: {'colsample_bytree': 0.9, 'subsample': 0.8} 
+-0.016904 (0.005887) with: {'colsample_bytree': 0.9, 'subsample': 0.9} 
+best_params:{'colsample_bytree': 0.9, 'subsample': 0.7} ,best_score:-0.016465 

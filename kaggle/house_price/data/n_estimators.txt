@@ -1,0 +1,55 @@
+-863784697.052009 (450851744.274516) with: {'n_estimators': 50} 
+-772867813.577936 (461770708.911449) with: {'n_estimators': 70} 
+-728115379.228890 (455089179.854860) with: {'n_estimators': 100} 
+-706394236.000730 (445153508.484415) with: {'n_estimators': 200} 
+-699831159.379990 (441426321.517371) with: {'n_estimators': 300} 
+-699309045.906267 (442434866.372374) with: {'n_estimators': 400} 
+-699146295.587506 (442273572.785353) with: {'n_estimators': 600} 
+-699533928.128971 (441805764.263084) with: {'n_estimators': 800} 
+-699699698.370936 (442006018.032589) with: {'n_estimators': 1000} 
+best_params:{'n_estimators': 600} ,best_score:-699146295.587506 
+-699240211.557839 (441992230.915429) with: {'n_estimators': 700} 
+-699146295.587506 (442273572.785353) with: {'n_estimators': 600} 
+-699240211.557839 (441992230.915429) with: {'n_estimators': 700} 
+best_params:{'n_estimators': 600} ,best_score:-699146295.587506 
+-699232875.286933 (442083176.010294) with: {'n_estimators': 550} 
+-699146295.587506 (442273572.785353) with: {'n_estimators': 600} 
+-698999778.616365 (441928550.927796) with: {'n_estimators': 650} 
+best_params:{'n_estimators': 650} ,best_score:-698999778.616365 
+-699016427.972795 (442256883.876404) with: {'n_estimators': 625} 
+-698999778.616365 (441928550.927796) with: {'n_estimators': 650} 
+best_params:{'n_estimators': 650} ,best_score:-698999778.616365 
+-699013027.119555 (442046712.504082) with: {'n_estimators': 638} 
+-698999778.616365 (441928550.927796) with: {'n_estimators': 650} 
+best_params:{'n_estimators': 650} ,best_score:-698999778.616365 
+-699001360.479725 (441941071.230717) with: {'n_estimators': 644} 
+-698999778.616365 (441928550.927796) with: {'n_estimators': 650} 
+best_params:{'n_estimators': 650} ,best_score:-698999778.616365 
+-0.122906 (0.008182) with: {'n_estimators': 50} 
+-0.025760 (0.005154) with: {'n_estimators': 70} 
+-0.018407 (0.005185) with: {'n_estimators': 100} 
+-0.017475 (0.005348) with: {'n_estimators': 200} 
+-0.017416 (0.005363) with: {'n_estimators': 300} 
+-0.017466 (0.005412) with: {'n_estimators': 400} 
+-0.017541 (0.005418) with: {'n_estimators': 600} 
+-0.017576 (0.005406) with: {'n_estimators': 800} 
+-0.017595 (0.005404) with: {'n_estimators': 1000} 
+best_params:{'n_estimators': 300} ,best_score:-0.017416 
+-0.017432 (0.005401) with: {'n_estimators': 350} 
+-0.017416 (0.005363) with: {'n_estimators': 300} 
+-0.017432 (0.005401) with: {'n_estimators': 350} 
+best_params:{'n_estimators': 300} ,best_score:-0.017416 
+-0.017441 (0.005345) with: {'n_estimators': 275} 
+-0.017416 (0.005363) with: {'n_estimators': 300} 
+-0.017434 (0.005375) with: {'n_estimators': 325} 
+best_params:{'n_estimators': 300} ,best_score:-0.017416 
+-0.017413 (0.005380) with: {'n_estimators': 312} 
+-0.017416 (0.005363) with: {'n_estimators': 300} 
+-0.017413 (0.005380) with: {'n_estimators': 312} 
+best_params:{'n_estimators': 312} ,best_score:-0.017413 
+-0.017413 (0.005380) with: {'n_estimators': 312} 
+-0.017425 (0.005364) with: {'n_estimators': 306} 
+best_params:{'n_estimators': 312} ,best_score:-0.017413 
+-0.017413 (0.005380) with: {'n_estimators': 312} 
+-0.017425 (0.005374) with: {'n_estimators': 309} 
+best_params:{'n_estimators': 312} ,best_score:-0.017413 

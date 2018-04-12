@@ -1,0 +1,26 @@
+-759614995.611371 (398101268.477851) with: {'learning_rate': 0.01} 
+-653803830.659257 (348505814.546660) with: {'learning_rate': 0.03} 
+-625300080.134375 (313825124.892299) with: {'learning_rate': 0.05} 
+-605280274.560952 (283995683.139357) with: {'learning_rate': 0.07} 
+-611526863.460042 (326279869.466323) with: {'learning_rate': 0.09} 
+-615511025.542031 (302171062.010252) with: {'learning_rate': 0.11} 
+-607599148.630716 (269436642.362448) with: {'learning_rate': 0.13} 
+-608223388.088239 (279731113.012993) with: {'learning_rate': 0.14} 
+-670795648.349035 (284892674.317639) with: {'learning_rate': 0.16} 
+-641989859.496947 (282181871.697251) with: {'learning_rate': 0.18} 
+-690090611.290715 (335549885.935761) with: {'learning_rate': 0.2} 
+-752441194.555565 (411371510.460615) with: {'learning_rate': 0.22} 
+best_params:{'learning_rate': 0.07} ,best_score:-605280274.560952 
+-0.287316 (0.014065) with: {'learning_rate': 0.01} 
+-0.017048 (0.005453) with: {'learning_rate': 0.03} 
+-0.017270 (0.005368) with: {'learning_rate': 0.05} 
+-0.016465 (0.004689) with: {'learning_rate': 0.07} 
+-0.017356 (0.005772) with: {'learning_rate': 0.09} 
+-0.017280 (0.005081) with: {'learning_rate': 0.11} 
+-0.017861 (0.004559) with: {'learning_rate': 0.13} 
+-0.018387 (0.004611) with: {'learning_rate': 0.14} 
+-0.019451 (0.005193) with: {'learning_rate': 0.16} 
+-0.018826 (0.005016) with: {'learning_rate': 0.18} 
+-0.019351 (0.005405) with: {'learning_rate': 0.2} 
+-0.018820 (0.005075) with: {'learning_rate': 0.22} 
+best_params:{'learning_rate': 0.07} ,best_score:-0.016465 
